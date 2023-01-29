@@ -1,0 +1,70 @@
+@font-face {
+  font-family: alilato;
+  src: url(fonts/Alilato-ExtraLight.ttf);
+}
+
+#font1{
+  font-family: alilato;
+}
+
+body {
+  background-color: #ebebeb;
+}
+header {
+  background-color: #ebebeb;
+}
+header h1 {
+  font-size: xx-large;
+}
+.h4bottom {
+  margin-top: 20px;
+}
+.form-label {
+  font-weight: bold;
+}
+.btn1 {
+  background-color: #ff9100;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px 55px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 8px;
+}
+.btn2 {
+  background-color: #ff9100;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px 55px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 8px;
+}
+.fa-gift {
+  margin-top: 30px;
+  font-size: 80px;
+}
+.fa-hand-holding-heart {
+  font-size: 80px;
+  margin-top: 30px;
+}
+.fa-briefcase {
+  font-size: 80px;
+  margin-top: 30px;
+}
+hr {
+  border: 1px solid rgb(255, 255, 255);
+  opacity: 65%;
+  width: auto;
+  margin: auto;
+  margin-bottom: 10px;
+}
+.hr2 {
+  margin: auto;
+  border: 1px solid rgb(0, 0, 0);
+  opacity: 100%;
+  width: 100px;
+}
